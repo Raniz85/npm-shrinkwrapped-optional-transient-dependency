@@ -1,0 +1,15 @@
+{
+  "optionalDependencies": {
+    "fsevents": "^1.1.1"
+  },
+  "name": "npm-shrinkwrapped-transient-optional-dependencies",
+  "version": "1.0.0",
+  "description": "Demonstration with shrinkwrapped transient optional dependencies",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
